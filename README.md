@@ -1,5 +1,7 @@
 # NewsHeadlineSentimentAnalysis
- Sentiment Analysis of News Headlines Over Time (for @liv_boeree)
+Purpose:
+Sentiment Analysis of News Headlines Over Time [for @liv_boeree](https://twitter.com/liv_boeree/status/1577736069528793090?s=21&t=95GJFxrIzCjGZg7NmAp-sw)
+
 
 ## Structure
 
